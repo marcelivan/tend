@@ -1,0 +1,3 @@
+insert into users (id,email)
+values
+(gen_random_uuid(),'test@example.com');
